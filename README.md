@@ -8,5 +8,4 @@ Please ensure that you update/upgrade all dependencies after cloning
 
 * Add the appropriate database driver so that Knex can hook into it
 * Change the name in the `package.json` and `src/lib/logger.ts`
-* Add a `.gitignore` file and ensure you add your `.env` file to it
 
